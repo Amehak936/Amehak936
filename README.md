@@ -3,30 +3,29 @@
 
 <a href="https://www.linkedin.com/in/ameha-kinfemicheal/ "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+👤About Me
 
-I am a recent **graduate** with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity professional focused on building hands-on experience in security operations, threat detection, and system defense. I enjoy working on practical labs that involve Active Directory, incident response, and security analysis to better understand how real-world attacks happen and how to stop them.
 
-- [MITTRE](https://www.linkedin.com/in/ameha-kinfemicheal/)
+I am continuously learning and improving my skills through projects, certifications, and home labs, with the goal of growing into a SOC Analyst or Information System Security Officer (ISSO) role.
+
 
 ---
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 🎯 Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To build a strong foundation in cybersecurity through hands-on projects and labs focused on threat detection, incident response, and system security. My goal is to apply practical skills in real-world environments, strengthen my understanding of security operations, and grow into a SOC Analyst or Information System Security Officer (ISSO) role within a mission-driven organization.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## 🛠️ Skills 
+
+* Active Directory administration and user/group management
+* Windows Server and domain environment setup and configuration
+* Phishing email analysis and social engineering threat detection
+* Security awareness and incident identification
+* Basic threat analysis and reporting
+* Hands-on cybersecurity lab development and documentation
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
