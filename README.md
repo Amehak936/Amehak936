@@ -27,7 +27,7 @@ To build a strong foundation in cybersecurity through hands-on projects and labs
 * Hands-on cybersecurity lab development and documentation
 
 
-## Tools
+## 🧰 Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
