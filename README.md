@@ -20,7 +20,21 @@ Seeking an opportunity to contribute to the Department of the Workforce (DoW) Cy
 
 ---
 
+# 📂 Hands-On Cybersecurity Projects
 
+## [🖥️ Active Directory Home Lab](https://github.com/Amehak936/Mastercard-Cybersecurity-Experience) 
+Built and configured an Active Directory environment using Windows Server. Managed users, groups, password policies, and Group Policy Objects (GPOs) to simulate enterprise identity and access management operations.
+
+## [🎣 Phishing Simulation Exercise](https://github.com/Amehak936/Mastercard-Cybersecurity-Experience)
+Performed phishing analysis and social engineering awareness exercises to identify malicious email indicators, improve user awareness, and strengthen organizational security posture.
+
+## 🛡️ Security Operations Center (SOC) Experience TryHackMe
+Monitored network activity, analyzed suspicious behavior, and practiced incident detection and response procedures in lab environments using cybersecurity tools and threat analysis techniques.
+
+## 📋 RMF Security Project
+Worked on a Risk Management Framework (RMF) project aligned with cybersecurity compliance principles, including risk assessment, security controls, vulnerability identification, and system security documentation.
+
+---
 
 # 🛠️ Technical Skills
 
@@ -57,21 +71,6 @@ Seeking an opportunity to contribute to the Department of the Workforce (DoW) Cy
 
 ---
 
-# 📂 Hands-On Cybersecurity Projects
-
-## [🖥️ Active Directory Home Lab](https://github.com/Amehak936/Mastercard-Cybersecurity-Experience) 
-Built and configured an Active Directory environment using Windows Server. Managed users, groups, password policies, and Group Policy Objects (GPOs) to simulate enterprise identity and access management operations.
-
-## [🎣 Phishing Simulation Exercise](https://github.com/Amehak936/Mastercard-Cybersecurity-Experience)
-Performed phishing analysis and social engineering awareness exercises to identify malicious email indicators, improve user awareness, and strengthen organizational security posture.
-
-## 🛡️ Security Operations Center (SOC) Experience TryHackMe
-Monitored network activity, analyzed suspicious behavior, and practiced incident detection and response procedures in lab environments using cybersecurity tools and threat analysis techniques.
-
-## 📋 RMF Security Project
-Worked on a Risk Management Framework (RMF) project aligned with cybersecurity compliance principles, including risk assessment, security controls, vulnerability identification, and system security documentation.
-
----
 
 # 🚀 Current Goals
 
@@ -81,6 +80,20 @@ Worked on a Risk Management Framework (RMF) project aligned with cybersecurity c
 - Earn additional cybersecurity certifications
 - Contribute to mission-focused cyber operations
 
+---
+
+# 🎓 Education
+
+<img src="https://img.shields.io/badge/-Bachelor's_of_Applied_Science_in_Cybersecurity-1f6feb?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  
+## Certifications
+[![CompTIA Security+](https://img.shields.io/badge/-Security%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/c3e493d1-b56a-4230-9849-257be0faade0/public_url)
+
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.coursera.org/account/accomplishments/records/TGNBJDENFL5M)
+
+[![Mastercard Virtual Experience](https://img.shields.io/badge/-Mastercard_Virtual_Experience-EA001B?style=for-the-badge&logo=mastercard&logoColor=white)](https://www.theforage.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_BSxcwKayLhAGHRBjQ_1721239170212_completion_certificate.pdf)
+
+---
 
 ## 🧰 Tools
 
@@ -104,11 +117,6 @@ Worked on a Risk Management Framework (RMF) project aligned with cybersecurity c
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[![CompTIA Security+](https://img.shields.io/badge/-Security%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/c3e493d1-b56a-4230-9849-257be0faade0/public_url)
 
-[![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.coursera.org/account/accomplishments/records/TGNBJDENFL5M)
-
-[![Mastercard Virtual Experience](https://img.shields.io/badge/-Mastercard_Virtual_Experience-EA001B?style=for-the-badge&logo=mastercard&logoColor=white)](https://www.theforage.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_BSxcwKayLhAGHRBjQ_1721239170212_completion_certificate.pdf)
 
 
