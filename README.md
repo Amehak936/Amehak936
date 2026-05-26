@@ -5,30 +5,86 @@
 
 👤About Me
 
-I am a cybersecurity professional focused on building hands-on experience in security operations, threat detection, and system defense. I enjoy working on practical labs that involve Active Directory, incident response, and security analysis to better understand how real-world attacks happen and how to stop them.
+## 🔐 Cybersecurity Apprentice | Security+ Certified | SOC & Active Directory Experience
 
-I am continuously learning and improving my skills through projects, certifications, and home labs, with the goal of growing into a SOC Analyst or Information System Security Officer (ISSO) role.
+I am a cybersecurity professional passionate about protecting systems, analyzing threats, and continuously learning new security technologies. I hold a Bachelor's degree in Cybersecurity and the CompTIA Security+ certification, with hands-on experience in security operations, Active Directory administration, phishing analysis, and RMF security projects.
+
+I am currently focused on building practical cybersecurity skills aligned with government and enterprise security operations, including cyber defense, incident response, vulnerability management, and security compliance.
+
+
 
 
 ---
 
-## 🎯 Objective
+# 🎯 Career Objective
 
-To build a strong foundation in cybersecurity through hands-on projects and labs focused on threat detection, incident response, and system security. My goal is to apply practical skills in real-world environments, strengthen my understanding of security operations, and grow into a SOC Analyst or Information System Security Officer (ISSO) role within a mission-driven organization.
+Seeking an opportunity to contribute to the Department of the Workforce (DoW) Cyber Apprenticeship Program and grow within the cybersecurity field through hands-on training, mentorship, and real-world cyber defense operations.
+
+---
 
 
-## 🛠️ Skills 
 
-* Active Directory administration and user/group management
-* Windows Server and domain environment setup and configuration
-* Phishing email analysis and social engineering threat detection
-* Security awareness and incident identification
-* Basic threat analysis and reporting
-* Hands-on cybersecurity lab development and documentation
+# 🛠️ Technical Skills
+
+## Security Operations & Defense
+- Security Operations Center (SOC) Fundamentals
+- Incident Monitoring & Threat Detection
+- Vulnerability Assessment
+- Network Reconnaissance
+- Risk Management Framework (RMF)
+
+## Identity & Access Management
+- Active Directory Installation & Configuration
+- User & Group Management
+- Group Policy Object (GPO) Configuration
+- Password Policy Management
+
+## Security Analysis
+- Phishing Email Analysis
+- Social Engineering Awareness
+- Threat Identification & Reporting
+- Security Awareness Training
+
+## Tools & Technologies
+- Windows Server
+- Active Directory
+- Kali Linux
+- Nmap
+- Nessus
+- Metasploit
+- Wireshark
+- VirtualBox
+- FTK Imager
+- Autopsy
+
+---
+
+# 📂 Hands-On Cybersecurity Projects
+
+## 🖥️ Active Directory Home Lab
+Built and configured an Active Directory environment using Windows Server. Managed users, groups, password policies, and Group Policy Objects (GPOs) to simulate enterprise identity and access management operations.
+
+## 🎣 Phishing Simulation Exercise
+Performed phishing analysis and social engineering awareness exercises to identify malicious email indicators, improve user awareness, and strengthen organizational security posture.
+
+## 🛡️ Security Operations Center (SOC) Experience
+Monitored network activity, analyzed suspicious behavior, and practiced incident detection and response procedures in lab environments using cybersecurity tools and threat analysis techniques.
+
+## 📋 RMF Security Project
+Worked on a Risk Management Framework (RMF) project aligned with cybersecurity compliance principles, including risk assessment, security controls, vulnerability identification, and system security documentation.
+
+---
+
+# 🚀 Current Goals
+
+- Expand skills in Cyber Defense & Incident Response
+- Learn advanced threat detection techniques
+- Gain government cybersecurity experience
+- Earn additional cybersecurity certifications
+- Contribute to mission-focused cyber operations
 
 
 ## 🧰 Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -51,9 +107,8 @@ To build a strong foundation in cybersecurity through hands-on projects and labs
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+[![CompTIA Security+](https://img.shields.io/badge/-Security%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/c3e493d1-b56a-4230-9849-257be0faade0/public_url)
+<img src="https://www.credly.com/badges/c3e493d1-b56a-4230-9849-257be0faade0/public_url" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
