@@ -65,7 +65,7 @@ Built and configured an Active Directory environment using Windows Server. Manag
 ## 🎣 Phishing Simulation Exercise
 Performed phishing analysis and social engineering awareness exercises to identify malicious email indicators, improve user awareness, and strengthen organizational security posture.
 
-## 🛡️ Security Operations Center (SOC) Experience
+## 🛡️ Security Operations Center (SOC) Experience TryHackMe
 Monitored network activity, analyzed suspicious behavior, and practiced incident detection and response procedures in lab environments using cybersecurity tools and threat analysis techniques.
 
 ## 📋 RMF Security Project
