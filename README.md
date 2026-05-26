@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/ameha-kinfemicheal/ "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-👤About Me
+## 👤 About Me
 
 ## 🔐 Cybersecurity Apprentice | Security+ Certified | SOC & Active Directory Experience
 
@@ -108,13 +108,9 @@ Worked on a Risk Management Framework (RMF) project aligned with cybersecurity c
 
 ## Certifications
 [![CompTIA Security+](https://img.shields.io/badge/-Security%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/c3e493d1-b56a-4230-9849-257be0faade0/public_url)
-<img src="https://www.credly.com/badges/c3e493d1-b56a-4230-9849-257be0faade0/public_url" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.coursera.org/account/accomplishments/records/TGNBJDENFL5M)
+
+[![Mastercard Virtual Experience](https://img.shields.io/badge/-Mastercard_Virtual_Experience-EA001B?style=for-the-badge&logo=mastercard&logoColor=white)](https://www.theforage.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_BSxcwKayLhAGHRBjQ_1721239170212_completion_certificate.pdf)
+
+
