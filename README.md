@@ -87,9 +87,9 @@ Worked on a Risk Management Framework (RMF) project aligned with cybersecurity c
 <img src="https://img.shields.io/badge/-Bachelor's_of_Applied_Science_in_Cybersecurity-1f6feb?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   
 ## Certifications
-[![CompTIA Security+](https://img.shields.io/badge/-Security%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/c3e493d1-b56a-4230-9849-257be0faade0/public_url)
+[![CompTIA Security+](https://img.shields.io/badge/-Security%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/c3e493d1-b56a-4230-9849-257be0faade0/public_url "Verify on Credly")
 
-[![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.coursera.org/account/accomplishments/records/TGNBJDENFL5M)
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.coursera.org/account/accomplishments/records/TGNBJDENFL5M "Verify on Coursera")
 
 [![Mastercard Virtual Experience](https://img.shields.io/badge/-Mastercard_Virtual_Experience-EA001B?style=for-the-badge&logo=mastercard&logoColor=white)](https://www.theforage.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_BSxcwKayLhAGHRBjQ_1721239170212_completion_certificate.pdf)
 
