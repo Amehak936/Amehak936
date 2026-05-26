@@ -1,10 +1,8 @@
-# Hello, I'm AMEHA
+# 🔵 Hello, I'm Ameha 🔴
 ## CYBERSECURITY PROFESSIONAL 
 
 <a href="https://www.linkedin.com/in/ameha-kinfemicheal/ "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 ## 👤 About Me
-
 ## 🔐 Cybersecurity Apprentice | Security+ Certified | SOC & Active Directory Experience
 
 I am a cybersecurity professional passionate about protecting systems, analyzing threats, and continuously learning new security technologies. I hold a Bachelor's degree in Cybersecurity and the CompTIA Security+ certification, with hands-on experience in security operations, Active Directory administration, phishing analysis, and RMF security projects.
