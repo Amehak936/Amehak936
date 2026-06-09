@@ -31,7 +31,7 @@ Performed phishing analysis and social engineering awareness exercises to identi
 ## 🛡️ Security Operations Center (SOC) Experience TryHackMe
 Monitored network activity, analyzed suspicious behavior, and practiced incident detection and response procedures in lab environments using cybersecurity tools and threat analysis techniques.
 
-## 📋 RMF Security Project
+## 📋 [RMF Security Project](https://github.com/Amehak936/Controls-Compliance-Audit-Report)
 Worked on a Risk Management Framework (RMF) project aligned with cybersecurity compliance principles, including risk assessment, security controls, vulnerability identification, and system security documentation.
 
 ---
